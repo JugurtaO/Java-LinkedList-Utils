@@ -18,13 +18,13 @@
  * final sorted list.
  * void displayLinkedList(): print all valus of each node in the linkedList
  */
-public class linkedList {
+public class LinkedList {
 
     Node head;
     Node tail;
     int length;
 
-    linkedList() {
+    LinkedList() {
         this.head = null;
         this.tail = head;
         this.length = 0;

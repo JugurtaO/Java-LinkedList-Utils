@@ -5,7 +5,7 @@ public class main {
 
     public static void main(String[] args) {
 
-        linkedList list = new linkedList();
+        LinkedList list = new LinkedList();
         list.push(9);
         list.push(2);
         list.push(7);
